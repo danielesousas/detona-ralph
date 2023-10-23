@@ -48,6 +48,11 @@
     background-size: cover;
 } 
 
+.menu-lives {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
 .second {
     margin-top: 10px;
 }
@@ -56,6 +61,3 @@
     margin-top: 10px;
 }
 
-#heart {
-    margin-top: 0px;
-}
